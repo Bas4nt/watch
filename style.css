@@ -111,6 +111,17 @@ iframe {
     text-decoration: none;
     color: inherit;
 }
+.series-card h4 {
+    margin: 10px 0;
+    font-size: 1.2em;
+    color: #333;
+    text-decoration: none;
+}
+
+.series-card a {
+    text-decoration: none;
+    color: inherit;
+}
 
 /* Embedded Section */
 .embed-section {
